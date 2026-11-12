@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013973286958",
+    "project_id": "ap-resources",
+    "storage_bucket": "ap-resources.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013973286958:android:9e1ba05884a5221e42dfbf",
+        "android_client_info": {
+          "package_name": "com.example.ap_resources_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdH7120rVmIckD1SvDOZzceUK6NUcOHdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
